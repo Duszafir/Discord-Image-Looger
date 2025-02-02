@@ -11,7 +11,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1335458983191904267/Ti_vYLYbpt6jsgGrviO3iOqpeF-rxHbjEXgMSiRNdTcfHZCiOi9FKGCemdwPnI9ioxSa",
+    "webhook": "",
     "image": "https://masterpiecer-images.s3.yandex.net/1de7df3a806911eeb696d20dae950626:upscaled",
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True,
